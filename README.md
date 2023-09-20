@@ -17,7 +17,7 @@ The findings are:
 
 2. Identify the entry page/homepage from 60% bounce rate and suggest an improvement in the entry page, which would lower the bounce rate by 7% .
 
-3. build conversion funnel and suggest to improve billing page,  which would increase order rate by17%.
+3. build conversion funnel and suggest improving the billing page,  which would increase order rate by 17%.
 
 
 2)Dataset:
